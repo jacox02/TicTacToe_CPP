@@ -1,0 +1,3 @@
+D:/Development/DataStructure/TicTacOwn/cmake-build-debug/CMakeFiles/TicTacOwn.dir
+D:/Development/DataStructure/TicTacOwn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/DataStructure/TicTacOwn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
